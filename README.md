@@ -1,16 +1,3 @@
-# Clinical Risk Prediction System
-
-![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoftazure)
-![SQL Server](https://img.shields.io/badge/Database-SQL%20Server-red?logo=microsoftsqlserver)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python)
-![Scikit-Learn](https://img.shields.io/badge/ML-Scikit--Learn-orange?logo=scikitlearn)
-![Power BI](https://img.shields.io/badge/Visualization-Power%20BI-F2C811?logo=powerbi)
-![Status](https://img.shields.io/badge/Project-Production%20Ready-brightgreen)
-![Impact](https://img.shields.io/badge/Impact-$37M%20Savings-success)
-![Model](https://img.shields.io/badge/Model-97%25%20Confidence-blueviolet)
-
----
-
 ## 🚀 AI-Driven Predictive Analytics for Clinical Risk & Patient Readmission
 
 **Role:** Lead Data Consultant & AI Architect  
@@ -23,6 +10,16 @@
 
 👉 **[View Power BI Dashboard](https://app.powerbi.com/)**  
 > *(Replace this link with your actual published Power BI report URL)*
+
+---
+## 🧩 Tech Stack
+
+- **Cloud:** Azure  
+- **Data Engineering:** Azure Data Factory  
+- **Database:** SQL Server  
+- **Machine Learning:** Python, Scikit-Learn  
+- **Visualization:** Power BI 
+---
 
 
 ## 🎯 Business Impact
@@ -159,16 +156,16 @@ This project solves these using **end-to-end AI + Data Engineering**.
 > Store images in `/images` folder
 
 ### Executive Dashboard
-![Executive](Images/Patient Re-Admission Risk_page-0001.jpg)
+![One of the Page](Images/0001.jpg)
 
 ### Risk Stratification
-![Risk](Patient Re-Admission Risk_page-0002.jpg)
+![One of the Page](Images/0002.jpg)
 
 ### Patient Watchlist
-![Watchlist](Patient Re-Admission Risk_page-0003.jpg)
+![One of the Page](Images/0003.jpg)
 
 ### Governance Dashboard
-![Governance](Patient Re-Admission Risk_page-0004.jpg)
+![One of the Page](Images/0004.jpg)
 
 ---
 
