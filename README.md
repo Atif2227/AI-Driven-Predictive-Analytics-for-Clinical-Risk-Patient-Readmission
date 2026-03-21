@@ -9,7 +9,6 @@
 ## 🔗 View Live Demo
 
 👉 **[View Power BI Dashboard](https://app.powerbi.com/)**  
-> *(Replace this link with your actual published Power BI report URL)*
 
 ---
 ## 🧩 Tech Stack
@@ -153,19 +152,17 @@ This project solves these using **end-to-end AI + Data Engineering**.
 
 ## 📸 Dashboard Screenshots
 
-> Store images in `/images` folder
-
 ### Executive Dashboard
-![One of the Page](Images/0001.jpg)
+![](Images/0001.jpg)
 
 ### Risk Stratification
-![One of the Page](Images/0002.jpg)
+![](Images/0002.jpg)
 
 ### Patient Watchlist
-![One of the Page](Images/0003.jpg)
+![](Images/0003.jpg)
 
 ### Governance Dashboard
-![One of the Page](Images/0004.jpg)
+![](Images/0004.jpg)
 
 ---
 
