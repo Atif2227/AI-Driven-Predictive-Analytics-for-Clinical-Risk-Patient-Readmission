@@ -1,6 +1,6 @@
 ## 🚀 AI-Driven Predictive Analytics for Clinical Risk & Patient Readmission
 
-**Role:** Lead Data Consultant & AI Architect  
+**Role:** HealthCare Data Analyst, Consultant & AI Architect  
 **Domain:** Healthcare Analytics  
 **Objective:** Predict and reduce 30-day hospital readmissions using Machine Learning  
 
