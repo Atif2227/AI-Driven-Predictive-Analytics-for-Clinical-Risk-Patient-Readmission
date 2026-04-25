@@ -6,6 +6,12 @@
 
 ---
 
+## Introduction
+
+The Patient Readmission Risk Engine is a comprehensive, AI-driven healthcare solution designed to identify high-risk patients before discharge to prevent costly 30-day readmissions. Developed for Unity Health Systems, the project integrates fragmented hospital data using an Azure-backed data pipeline and a high-performance Gradient Boosting machine learning model. By translating clinical and financial "signals" into real-time actionable insights via a 4-page Power BI dashboard, the engine helps hospital executives reduce government penalties while equipping front-line clinical teams with a prioritized watchlist for targeted patient interventions.
+
+---
+
 ## 🔗 View Live Demo
 
 👉 **[View Power BI Dashboard](https://app.powerbi.com/)**  
@@ -205,3 +211,15 @@ project-root/
 ├── dashboards/          # Power BI files (.pbix)
 ├── images/              # Dashboard screenshots
 └── README.md            # Project documentation
+
+---
+```
+## 👤 Consultant
+
+**Atif Noorul Hasan** <br />
+Healthcare Analytics Consultant <br />
+Business Intelligence | Data Analytics | Dashboard Design <br />
+
+🔗 Website – https://atifdata.com <br />
+✉️ Email – atif@atifdata.com
+
